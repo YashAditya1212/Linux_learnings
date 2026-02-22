@@ -1,0 +1,13 @@
+This is our new step where we will be learning Git nad GitHub. 
+I learned new git commands .
+Initializing a repo 
+then Staging the changes 
+Then comes the commit part when sure of all things . It can also be reset
+git_init
+git status
+git add . / add all/ or add <file>
+git reset
+git rm <file>
+Next lineup soon .
+
+
