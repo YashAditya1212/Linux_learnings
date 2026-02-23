@@ -1,0 +1,14 @@
+Today we learnt about git branching 
+git branch name
+git checkout branch 
+My git is  still master not main 
+You know the changes are no longer seen if i chnage the branch even in my local repo. 
+
+Now we learnt merging :
+git merge development 
+git merge main 
+
+Git Conflicts :
+Conflicts arise when same content edited in same file in different branches and merge attempted. 
+They need to be solved manually.
+
