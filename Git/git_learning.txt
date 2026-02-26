@@ -10,4 +10,4 @@ git reset
 git rm <file>
 Next lineup soon .
 
-
+Yashis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
