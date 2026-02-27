@@ -1,0 +1,15 @@
+Ctrl + C       // Kills current job
+
+ls  // list all files and directories in the current directory
+
+i created a Shared folder today . Got to Virtual box and then shared folders clixk + and add path . I set as Auto mount. 
+Then start VM again and install guest additions .
+
+Next add usr to vboxsf  // Vbox shared folder group
+sudo usermod -aG vboxsf yash
+
+Now Reboot. 
+
+My is currenly Downloads linked by 
+ls/media/sf_Shared 
+Used this to change my Wallpaper.
