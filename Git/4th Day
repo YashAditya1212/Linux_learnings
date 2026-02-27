@@ -1,0 +1,19 @@
+Git  fetch   // Brings changes from the remote repo to lecal repo but then 
+you need to do git merge
+So do
+git pull branch  
+
+git restore filename
+git restore directory
+git restore .   // restore entire repo
+
+git restore --staged 
+git restore --staged filename   //Revert stagged changes
+
+Stash: 
+Used when you want to swtch to other branch without committing or loosing content.
+git stash 
+to bring back git pop  or git apply
+git stash pop stash{0}
+
+git stash drop to clear sstash list
