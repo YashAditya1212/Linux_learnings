@@ -13,3 +13,13 @@ Now Reboot.
 My is currenly Downloads linked by 
 ls/media/sf_Shared 
 Used this to change my Wallpaper.
+
+Change name of a file :
+mv old_namee new_name 
+
+Removing files:
+rm -f <file_name>
+
+rm -R for recursive -d <Directory name> 
+
+rm --help to get help 
